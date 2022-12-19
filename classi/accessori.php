@@ -2,7 +2,7 @@
 
     include_once __DIR__ . '/classi/prodotti.php';
 
-    class Accessori{
+    class Accessori extends Prodotto{
         public $materiale;
         public $dimensioni;
 
