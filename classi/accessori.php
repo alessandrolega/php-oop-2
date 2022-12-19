@@ -6,6 +6,7 @@
         public $materiale;
         public $dimensioni;
 
+
     public function __construct(
         String $immagine,
         String $nome,
